@@ -6,8 +6,8 @@ Console.Writeline("Hello World!");
 ```cs
 public class JRybelis : IGitHubUser
 {
-	public string Forename = 'Jokūbas';
-	public string Surname = 'Rybelis';
+	public string Forename = 'Andrius';
+	public string Surname = 'Urbonas';
 	public string Field = "Web development";
 	public string PrimaryStack = ".Net 5";
 	public bool AvailableForWork = true;
@@ -29,10 +29,10 @@ public class Program
 		{
 			new Skill { Type="language", Name="C#"},
 			new Skill { Type="language", Name="SQL"},
-      new Skill { Type="language", Name="PHP"}
-      new Skill { Type="language", Name="Symfony"}
-      new Skill { Type="language", Name="PrestShop"}
-      new Skill { Type="framework", Name="Laravel"},
+			new Skill { Type="language", Name="PHP"}
+			new Skill { Type="language", Name="Symfony"}
+			new Skill { Type="language", Name="PrestShop"}
+			new Skill { Type="framework", Name="Laravel"},
 			new Skill { Type="language", Name="JavaScript"},
 			new Skill { Type="language", Name="HTML"},
 			new Skill { Type="language", Name="CSS"},
