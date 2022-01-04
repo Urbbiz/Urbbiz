@@ -59,4 +59,4 @@ WORK IN PROGRESS
 - 📫 Reach me on: 
 	- LinkedIn at https://www.linkedin.com/in/andrius-urbonas-45b1a433/;
 	- Portfolio at https://urbbiz.github.io/portfolio/ 
-- ⚡ Fact: I am fan of Formula 1.
+- ⚡ Fan: Formula 1.
