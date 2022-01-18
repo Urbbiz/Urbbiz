@@ -9,7 +9,7 @@ public class Urbbiz : IGitHubUser
 	public string Forename = 'Andrius';
 	public string Surname = 'Urbonas';
 	public string Field = "Web development";
-	public string PrimaryStack = ".Net 6";
+	public string PrimaryStack = ".Net 5, .Net 6";
 	public bool AvailableForWork = true;
 }
 ```
