@@ -4,7 +4,7 @@ Console.Writeline("Hello World!");
 ```
 
 ```cs
-public class JRybelis : IGitHubUser
+public class Urbbiz : IGitHubUser
 {
 	public string Forename = 'Andrius';
 	public string Surname = 'Urbonas';
